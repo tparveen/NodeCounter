@@ -1,0 +1,14 @@
+{
+	"name": "Node-counter-example",
+	"version": "0.0.1",
+	"description": "Simple counter app to demo Node and Express stack",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^5.0.0-alpha.2",
+		"handlebars": "^4.0.5"
+	},
+	"license": "MIT"
+}
